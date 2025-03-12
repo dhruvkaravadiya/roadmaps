@@ -17,56 +17,56 @@ Welcome to the ultimate **Next.js Learning Roadmap**! This guide will take you f
 ---
 
 ## 1️⃣ 🎯 **Fundamentals (Beginner Level)**
-✅ React Basics: JSX, Props, State, Hooks (`useState`, `useEffect`, `useContext`)
-✅ Next.js Core: File-based Routing, `getServerSideProps`, `getStaticProps`
-✅ Styling: CSS Modules, Tailwind CSS, Styled Components
-✅ API Routes: Creating Backend Endpoints (`pages/api/`)
+- ✅ React Basics: JSX, Props, State, Hooks (`useState`, `useEffect`, `useContext`)
+- ✅ Next.js Core: File-based Routing, `getServerSideProps`, `getStaticProps`
+- ✅ Styling: CSS Modules, Tailwind CSS, Styled Components
+- ✅ API Routes: Creating Backend Endpoints (`pages/api/`)
 
 ---
 
 ## 2️⃣ 🚀 **Intermediate Concepts**
-✅ Modern Data Fetching: Server Components, Client Components, RSC Best Practices
-✅ State Management: Context API, Zustand, Redux Toolkit
-✅ Authentication: NextAuth.js (OAuth, JWT), Middleware for Protected Routes
-✅ Middleware: Rate Limiting, Custom Logic
+- ✅ Modern Data Fetching: Server Components, Client Components, RSC Best Practices
+- ✅ State Management: Context API, Zustand, Redux Toolkit
+- ✅ Authentication: NextAuth.js (OAuth, JWT), Middleware for Protected Routes
+- ✅ Middleware: Rate Limiting, Custom Logic
 
 ---
 
 ## 3️⃣ 🔥 **Advanced Next.js Topics**
-✅ App Router (`app/`): Layouts, Templates, Parallel Routes, Intercepting Routes
-✅ Server Actions: Handling Forms & Mutations Without API Routes
-✅ Data Fetching & Streaming: Suspense, React Server Components
-✅ Caching: `revalidateTag`, `revalidatePath`, Redis, Edge Caching
-✅ WebSockets & Real-time: Using Next.js with Socket.io & Pusher
+- ✅ App Router (`app/`): Layouts, Templates, Parallel Routes, Intercepting Routes
+- ✅ Server Actions: Handling Forms & Mutations Without API Routes
+- ✅ Data Fetching & Streaming: Suspense, React Server Components
+- ✅ Caching: `revalidateTag`, `revalidatePath`, Redis, Edge Caching
+- ✅ WebSockets & Real-time: Using Next.js with Socket.io & Pusher
 
 ---
 
 ## 4️⃣ 🌐 **Full-stack Next.js Mastery**
-✅ Database Integration: Prisma (SQL), MongoDB with Mongoose, EdgeDB
-✅ Backend APIs: REST & GraphQL (`app/api/`), Apollo Client, Relay
-✅ Serverless Functions: Vercel Edge Functions, Cloudflare Workers, AWS Lambda
+- ✅ Database Integration: Prisma (SQL), MongoDB with Mongoose, EdgeDB
+- ✅ Backend APIs: REST & GraphQL (`app/api/`), Apollo Client, Relay
+- ✅ Serverless Functions: Vercel Edge Functions, Cloudflare Workers, AWS Lambda
 
 ---
 
 ## 5️⃣ 🏢 **Enterprise-level Architecture & Scalability**
-✅ Microservices: Monorepo vs Microservices, Module Federation
-✅ CI/CD & Deployment: Vercel, AWS, Docker/Kubernetes, GitHub Actions
-✅ Monitoring & Logging: Sentry, Logging with Winston/Pino
+- ✅ Microservices: Monorepo vs Microservices, Module Federation
+- ✅ CI/CD & Deployment: Vercel, AWS, Docker/Kubernetes, GitHub Actions
+- ✅ Monitoring & Logging: Sentry, Logging with Winston/Pino
 
 ---
 
 ## 6️⃣ ⚡ **Mastering Performance & SEO**
-✅ Code-splitting & Tree Shaking
-✅ Image Optimization (`next/image`), Lazy Loading & Suspense
-✅ SEO Best Practices: Metadata API, OG Images, Sitemap & Robots.txt
-✅ Internationalization (i18n): Multi-language Support, Locale-based Routing
+- ✅ Code-splitting & Tree Shaking
+- ✅ Image Optimization (`next/image`), Lazy Loading & Suspense
+- ✅ SEO Best Practices: Metadata API, OG Images, Sitemap & Robots.txt
+- ✅ Internationalization (i18n): Multi-language Support, Locale-based Routing
 
 ---
 
 ## 7️⃣ 🎁 **Bonus: Beyond Next.js**
-✅ AI Integration: LangChain, OpenAI APIs, AI-powered apps
-✅ Building a SaaS with Next.js
-✅ Contributing to Next.js Open Source
+- ✅ AI Integration: LangChain, OpenAI APIs, AI-powered apps
+- ✅ Building a SaaS with Next.js
+- ✅ Contributing to Next.js Open Source
 
 ---
 
